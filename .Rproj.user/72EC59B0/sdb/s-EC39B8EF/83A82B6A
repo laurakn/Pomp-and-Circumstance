@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#' circumstance requires pomp\n#'\n#' This function allows one to have pomp and circumstance\n#'\n#' @return None\n#'\n#' @keywords pomp, circumstance\n#'\n#' @examples\n#' cirsumstance()\n#'\n#' @export\n\ncircumstance <- function(){\n  require(\"pomp\")\n}\n",
+    "created" : 1512437795046.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4167479401",
+    "id" : "83A82B6A",
+    "lastKnownWriteTime" : 1512442965,
+    "last_content_update" : 1512442984790,
+    "path" : "~/Dropbox/play/Circumstance/R/circumstance.R",
+    "project_path" : "R/circumstance.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

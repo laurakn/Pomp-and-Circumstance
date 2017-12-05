@@ -1,0 +1,11 @@
+Package: Circumstance
+Type: Package
+Title: Circumstance Requires Pomp
+Version: 0.1.0
+Author: Laura Niss, Robyn Ferg
+Maintainer: Laura Niss <laura.niss@gmail.com>
+Description: As the title says (and we all know), circumstance requires pomp
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
